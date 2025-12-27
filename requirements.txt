@@ -1,0 +1,4 @@
+pyupbit
+PyQt6
+pandas
+matplotlib
